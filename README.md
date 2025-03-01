@@ -1,1 +1,1 @@
-# 3D_intrinsic_alignment
+# 3D intrinsic alignment
