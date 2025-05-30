@@ -1,4 +1,4 @@
-# Intrinsic alignment : scientific context of the project
+# Scientific context of the project : the intrinsic alignment of galaxies
 
 The intrinsic alignment of the galaxies corresponds to the **alignment** of the galaxies at very large scales along the filaments of the **cosmic web**, due to their interaction with the underlying **tidal field of dark matter**. It induces correlations between the **shapes** and the **orientations** of the galaxies accross the sky. It is a fundamental effect to probe the **3D properties** of the **large-scale structures** of the Universe. 
 
